@@ -1,4 +1,4 @@
-# E-commerce Sales Dashboard (Excel)
+# ecommerce_sales_dashboard.xlsx
 
 ## 📊 Overview
 This project is an interactive Excel dashboard built using an e-commerce dataset to analyze sales performance and generate business insights.
